@@ -1,10 +1,38 @@
 # Title
 
-**Authors**: Student1, Student2
+**Authors**: Joel Collins
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+This is an overview of my project. 
+
+bold
+**It's a great overview.**
+italisized
+*It's a great overview.*
+
+# Head 1
+## Head 2
+### Head 3
+
+# Using a visualization
+![The distribution of number of votes](images/visualization/histogram.png)
+
+
+
+## collapsible markdown?
+
+<details><summary>For more information, click here</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 
 ## Business Problem
 
